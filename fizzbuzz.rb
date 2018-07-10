@@ -4,7 +4,7 @@ def fizz_buzz
   puts "FizzBuzz"
   elsif number%3 == 0
   puts "Fizz"
-  else number%5 == 0
+  elsif number%5 == 0
   puts "Buzz"
 end
 
