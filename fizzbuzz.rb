@@ -1,5 +1,5 @@
 def fizz_buzz
-number= 5
+number= 3
 puts number
 if number%3==0 && number%5==0
   puts "FizzBuzz"
