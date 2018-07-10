@@ -8,4 +8,4 @@ def fizz_buzz
   puts "Buzz"
 end
 
-fizz_buzz
+puts fizz_buzz
