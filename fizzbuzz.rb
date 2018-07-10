@@ -1,4 +1,4 @@
-rudef fizz_buzz
+def fizz_buzz
  
   number = gets.chomp .to_i
  
